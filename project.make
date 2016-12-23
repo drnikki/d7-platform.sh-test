@@ -11,3 +11,5 @@ defaults[projects][subdir] = contrib
 
 ; Platform indicator module.
 projects[platform][version] = 1.4
+
+projects[pathauto][version] =1.3
