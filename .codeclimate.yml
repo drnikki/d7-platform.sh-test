@@ -1,0 +1,23 @@
+---
+engines:
+  duplication:
+    enabled: true
+    config:
+      languages:
+      - javascript
+      - php
+  fixme:
+    enabled: true
+  phpmd:
+    enabled: true
+  phpcodesniffer:
+    enabled: true
+ratings:
+  paths:
+  - "**.inc"
+  - "**.module"
+  - "**.php"
+  - "**.info"
+  - "**.py"
+  - "**.rb"
+exclude_paths: []
