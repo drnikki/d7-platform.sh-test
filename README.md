@@ -1,5 +1,7 @@
 # Drupal 7.x template for Platform.sh
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/dfc741deb76e48deae0b2da17620e294)](https://www.codacy.com/app/drnikki/d7-platform-sh-test?utm_source=github.com&utm_medium=referral&utm_content=drnikki/d7-platform.sh-test&utm_campaign=badger)
+
 This project provides a starter kit for Drupal 7 projects hosted on Platform.sh.
 
 This example is based on using the Drush Make build profile.
